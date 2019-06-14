@@ -12,8 +12,9 @@ li {
 .header h1  {
     background-color: darkcyan;
     color: white;
-    margin-left: 2%;
-    
+    margin-left: 9%;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 body  {
@@ -32,6 +33,7 @@ body  {
 .header {
     background-color: white;
     padding: 0 1em;
+    border-bottom: 2px solid grey;
 }
 
 hr  {
@@ -72,7 +74,7 @@ img {
 
 footer {
     background-color:grey;
-    border-top: 4px solid darkcyan;
+    border-top: 6px solid darkcyan;
     height: 50px;
 }
 
