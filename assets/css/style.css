@@ -13,10 +13,13 @@ li {
     background-color: darkcyan;
     color: white;
     margin-left: 2%;
+    
 }
 
 body  {
     background-color: lightgrey;
+    margin: 0;
+    padding: 0;
 }  
 
 .nav {
@@ -34,6 +37,7 @@ body  {
 hr  {
     margin-left: 2%;
     margin-right: 2%;
+    border-top: 1px solid lightgrey;
 }
 
 .about {
@@ -49,12 +53,14 @@ hr  {
 h2  {
     margin-left: 2%;
     padding-top: 2%;
+    color: darkcyan;
 }
 
 p   {
     margin-left: 2%;
     margin-right: 2%;
     font-family: "Arial", Arial, Helvetica, sans-serif;
+    font-weight: 6500;
     line-height: 1.6;
 
 }
@@ -67,8 +73,19 @@ img {
 footer {
     background-color:grey;
     border-top: 4px solid darkcyan;
+    height: 50px;
 }
 
 .copyright {
     text-align: center;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    color: lightgrey;
+    font-size: .5em;
+}
+
+a {
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: lightgrey;
+    text-decoration: none;
 }
