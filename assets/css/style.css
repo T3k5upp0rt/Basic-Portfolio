@@ -1,0 +1,55 @@
+h1  {
+    background-color: darkcyan;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    color: grey;
+}
+
+.header h2  {
+    color: darkcyan;
+    margin-left: 2%;
+}
+
+body  {
+    background-color: lightgray;
+}  
+
+.nav {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    background-color: white;
+    padding: 0 1em;
+}
+
+hr  {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.about {
+    background-color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+p   {
+    margin-left: 2%;
+    margin-right: 2%;
+}
