@@ -6,16 +6,32 @@
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>
-    <div>
-        <h1>Kylan Childers</h1>
+    <div class="header">
+        <div class="nav">
+            <h1>Kylan Childers</h1>
+                <ul>
+                    <li><a href="index.html">About</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+        </div>
     </div>
-    <nav>
-        <ul>
-            <li><a href="index.html">About</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
-            <li><a href="contact.html">Contact</a></li>
-        </ul>
-    </nav>
+<section class="contact-form">
     <div>
-        <h1>Contact</h1>
+        <h2>Contact</h2>
     </div>
+    <hr>
+    <form>
+        Name: <input type="text" name="Name" value="John Smith"><br>
+        Email: <input type="email" name="Email" value="example@gmail.com"><br>
+        Message: <input type="message" rows="10" columns="30" name="Message"><br>
+        <input type="submit" value="Submit">
+    </form>
+
+</section>
+<footer>       
+    <p class="copyright">
+        Copyright©
+    </p>        
+</footer>
+</body>

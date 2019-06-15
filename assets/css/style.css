@@ -52,6 +52,15 @@ hr  {
     
 }
 
+.contact-form {
+    background-color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 2%;
+}
+
 h2  {
     margin-left: 2%;
     padding-top: 2%;
