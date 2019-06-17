@@ -140,7 +140,6 @@ form {
 
 .container  {
     position: relative;
-    margin-left: 2%;
     margin-top: 2%;
 }
 
@@ -156,4 +155,14 @@ h4{
     background-color: #4aaaa5;
     padding: 10px;
     text-align: center;
+}
+
+th  {
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+table   {
+    border-collapse: separate;
+    border-spacing: 20px 0;
 }
