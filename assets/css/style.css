@@ -41,8 +41,8 @@ body  {
     align-items: center;
     width: 960px;
     position: absolute;
-    left: 25%;
-    right: 25%;
+    left: 15%;
+    right: 15%;
     max-height: 75px;
     overflow: hidden;
 }
@@ -66,8 +66,8 @@ hr  {
     padding-bottom: 2%;
     width: 960px;
     position: absolute;
-    left: 25%;
-    right: 25%;
+    left: 15%;
+    right: 15%;
 }
 
 h2  {
