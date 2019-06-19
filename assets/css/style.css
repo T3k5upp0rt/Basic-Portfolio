@@ -27,7 +27,10 @@ html    {
 }
 
 body  {
-    background-image: url("/assets/images/interlaced.png");
+    background-image: url('../images/interlaced.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     background-color: lightgrey;
     height: 100%;
     width:  100%;
