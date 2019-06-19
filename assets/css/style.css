@@ -39,9 +39,6 @@ body  {
     justify-content: space-between;
     align-items: center;
     width: 960px;
-    /*position: absolute;
-    left: 15%;
-    right: 15%;*/
     margin: 0 auto;
     max-height: 75px;
     overflow: hidden;
@@ -50,8 +47,8 @@ body  {
 header {
     background-color: #ffffff;
     border-bottom: 2px solid #cccccc;
-    max-height: 75px;
-    height: 75px;
+    max-height: 72px;
+    height: 72px;
 }
 
 hr  {
@@ -87,6 +84,7 @@ p   {
 img {
     float:left;
     margin-right: 10px;
+    padding-top : 5px;
 }
 
 .wrapper    {
