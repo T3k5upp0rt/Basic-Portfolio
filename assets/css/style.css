@@ -17,6 +17,8 @@ h1  {
     color: #ffffff;
     font-family: 'Georgia', 'Times', 'Times New Roman' , serif;
     padding: 20px;
+    font-weight: bold;
+    font-size: 28px;
 }
 
 html    {
@@ -49,6 +51,7 @@ header {
     border-bottom: 2px solid #cccccc;
     max-height: 72px;
     height: 72px;
+    overflow: hidden;
 }
 
 hr  {
@@ -69,6 +72,8 @@ h2  {
     margin-left: 2%;
     color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 p   {
