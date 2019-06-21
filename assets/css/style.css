@@ -10,6 +10,7 @@ li {
     padding: 10px;
     font-size: 16px;
     font-weight: 100;
+    border-left: 1px solid #cccccc;
 }
 
 h1  {
@@ -49,7 +50,7 @@ body  {
     overflow: hidden;
 }
 
-.nav a:first-child  {
+.nav li:first-child  {
     border-left: 0 none;
 }
 
@@ -130,7 +131,6 @@ a {
     font-weight: 600;
     color: #cccccc;
     text-decoration: none;
-    border-left: 1px solid #cccccc;
 }
 
 form {
